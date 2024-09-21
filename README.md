@@ -5,3 +5,4 @@ WARNING: YOU NEED AN PYTHON TO USE AND TEST
 
 ## 📢 | Update log:
 ### new version comming soon
+### recommended to use this font: https://www.dafont.com/perfect-dos-vga-437.font
